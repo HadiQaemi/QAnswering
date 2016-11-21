@@ -1,0 +1,1 @@
+This project builds a system for question classification and converts them into a SPARQL query.
